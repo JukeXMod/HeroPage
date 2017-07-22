@@ -1,0 +1,22 @@
+html, body {
+	background-color: #EEE1D2;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+}
+.hero-body {
+	background-image: url("../images/jukebox-background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top;
+}
+
+.hero-head, .hero-foot {
+	background-color: #444;
+}
+
+
+h1 {
+	font-family: 'Bungee Inline', cursive;
+}
